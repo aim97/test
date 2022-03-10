@@ -3,7 +3,7 @@ const my_function = () => {
 };
 
 const greeter = (name) => {
-  console.log(`Hi ${name}`);
+  console.log(`Hello ${name}`);
 };
 
 module.exports = {
